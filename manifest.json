@@ -1,7 +1,7 @@
 {
   "name": "Ilha Control PS3",
   "short_name": "Ilha Control",
-  "start_url": "/",
+  "start_url": "/p/painel.html",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000",
