@@ -1,6 +1,6 @@
 {
-  "name": "Ilha TV",
-  "short_name": "Ilha TV",
+  "name": "Ilha Controle",
+  "short_name": "Ilha Controle",
   "start_url": "https://ilhacontroleps3.blogspot.com/p/painel.html",
   "scope": "https://ilhacontroleps3.blogspot.com/p/painel.html",
   "display": "standalone",
