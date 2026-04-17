@@ -1,15 +1,23 @@
 {
-  "name": "Ilha Controle",
-  "short_name": "Ilha Controle",
-  "start_url": "https://ilhacontroleps3.blogspot.com/p/painel.html",
-  "scope": "https://ilhacontroleps3.blogspot.com/p/painel.html",
+  "name": "Ilha Controle PS3",
+  "short_name": "IlhaControl",
+  "description": "Painel de controle estilo PS3 - Ilha de Games®",
+  "start_url": "/p/painel.html",
+  "scope": "/",
   "display": "standalone",
-  "background_color": "#111111",
+  "background_color": "#000000",
   "theme_color": "#000000",
+  "orientation": "portrait",
+  "lang": "pt-BR",
   "icons": [
     {
-      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBUBV-Hr46vH3MsQuAQdqD3CqHGZVqP9idsMPEds5I6QcVSSytdlLQUuuyy9KKRavvA1pnn3_aVyjcG3wQs-ZBvn5-wwPyhDvDLYV216tpmPC5kATXWtxwM7A3uhPQy6z9uhV6ArkLqidqoooP8GwJYb5OaMT7Wtqk65XYpGo_HSTEITg/s1600/ICON0.png",
+      "src": "https://raw.githubusercontent.com/Ilha-Entertainment/Ilha-Control-App/main/icon-192.png",
       "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/Ilha-Entertainment/Ilha-Control-App/main/icon-512.png",
+      "sizes": "512x512",
       "type": "image/png"
     }
   ]
