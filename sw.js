@@ -1,6 +1,6 @@
 const CACHE_NAME = "ilha-control-v1";
 const URLS_TO_CACHE = [
-  "/",
+  "/p/painel.html",
   "/p/painel.html"
 ];
 
