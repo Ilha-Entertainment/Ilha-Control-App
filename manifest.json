@@ -3,7 +3,7 @@
   "short_name": "IlhaControl",
   "description": "Painel estilo PS3 - Ilha de Games®",
   "start_url": "/p/painel.html",
-  "scope": "/",
+  "scope": "/p/painel.html",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000",
