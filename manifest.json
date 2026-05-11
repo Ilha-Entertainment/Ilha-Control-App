@@ -2,13 +2,17 @@
   "name": "Ilha Controle PS3",
   "short_name": "Ilha Controle PS3",
   "description": "Ilha Entertainment® apresenta. - Ilha Controle PS3®",
-  "start_url": "https://ilhacontroleps3.blogspot.com/3000/01/Ilha%20Controle%20PS3.html",
+
+  "start_url": "/",
+
   "scope": "/",
+
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000",
   "orientation": "portrait",
   "lang": "pt-BR",
+
   "icons": [
     {
       "src": "https://img.icons8.com/fluency/192/remote-control.png",
